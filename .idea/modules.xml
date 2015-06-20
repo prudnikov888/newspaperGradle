@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dao/dao.iml" filepath="$PROJECT_DIR$/dao/dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/newspaperSpring.iml" filepath="$PROJECT_DIR$/newspaperSpring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/services/services.iml" filepath="$PROJECT_DIR$/services/services.iml" />
-      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/src/main/main.iml" filepath="$PROJECT_DIR$/services/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/src/main/main1.iml" filepath="$PROJECT_DIR$/web/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/src/main/main2.iml" filepath="$PROJECT_DIR$/dao/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/src/test/test.iml" filepath="$PROJECT_DIR$/dao/src/test/test.iml" />
     </modules>
   </component>
 </project>
